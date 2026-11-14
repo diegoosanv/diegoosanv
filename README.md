@@ -1,38 +1,38 @@
 <div align="center">
-  <h1>Hi, I'm Diego 👋</h1>
+  <h1>Hi, I'm Diego </h1>
   <p>
     <strong>3rd-semester Actuarial Science & Data Science student</strong> at Universidad Michoacana de San Nicolás de Hidalgo (UMSNH).<br/>
     Focused on turning mathematical, statistical, and ML models into reproducible, production-ready systems.
   </p>
   <p><em>“Turning mathematical thinking into intelligent solutions.”</em></p>
-  <p>📍 Based in Mexico · 🗣️ Spanish (Native) · English</p>
+  <p> Based in Mexico ·  Spanish (Native) · English</p>
 </div>
 
 ---
 
-### 🌟 About Me
+### About Me
 
-- 🎓 Studying **Actuarial Science & Data Science** (3rd semester) with a strong focus on quantitative rigor and end-to-end engineering.
-- ⚙️ Comfortable working natively in **Linux CLI**, **SQL**, and Git to take ideas beyond notebooks into real systems.
-- 🤖 **AI-Assisted Engineering:** I use AI tools and agentic CLI workflows (including **`agy` CLI**, Gemini API, Ollama, and `llama.cpp`) as productivity multipliers to design architecture, write tests, document, and iterate faster.
-- 🔬 **Core Interests:** Quantitative Finance & Risk Analytics · Geospatial Data Science · Machine Learning & Deep Learning · Local AI & LLMs (RAG/Agents) · Applied Mathematics, Probability & Optimization.
-- 🛠️ **Currently working on:** Geospatial & actuarial analysis (*Índice OXXO* research paper in LaTeX), local AI agent workflows, and actuarial modeling in R.
-- 🎯 **Goal:** Build a career in actuarial/quantitative risk analytics and applied AI.
-- 🤝 **Open to:** Research collaborations, internships, and open-source projects.
-
----
-
-### 🚀 Featured Projects
-
-- **🗺️ Índice OXXO (Geospatial Research & Applied Statistics):** Spatial analysis of commercial density, 400m pedestrian coverage, and correlation with INEGI/DENUE economic data across 31 Mexican state capitals and 16 CDMX boroughs. Built with metric reprojection (`EPSG:6372`), algebraic dependency filtering in correlation matrices, Folium maps, automated daily `systemd` execution, and a LaTeX research paper.
-- **📈 Algorithmic Trading Bot (Quantitative Finance & Risk):** Automated trading system integrated with Interactive Brokers (`ib_insync` + IBC). Features `TimeSeriesSplit` + `GridSearchCV`, expanding Walk-Forward validation, portfolio metrics (CAGR, Sharpe Ratio, Max Drawdown, Profit Factor), ATR-based Trailing Stop, and an independent `RiskManager` kill-switch.
-- **🌮 POS & Analytics Platform (End-to-End Business ML):** Full-stack SMB system (FastAPI, SQLAlchemy, SQL, Streamlit, PWA) powered by **quantile regression forecasting (P10/P50/P90)** for demand/inventory, **CUSUM** statistical process control for cash-register anomaly detection, and a hybrid WhatsApp expense parser using Gemini Flash.
-- **🧠 JAM & ATLAS (Local AI, RAG & CI/CD):** Privacy-first offline assistants built with ChromaDB vector memory, local LLM inference (`llama.cpp` / Ollama), hardware detection, Cython compilation, and automated Windows builds via GitHub Actions.
-- **🏎️ F1 Autonomous Agent (DQN) & Hemibrain Connectome:** Deep Q-Learning agent with Experience Replay and raycasting (TensorFlow / Keras), alongside real neuroscience graph analysis using NetworkX and Plotly.
+-  Studying **Actuarial Science & Data Science** (3rd semester) with a strong focus on quantitative rigor and end-to-end engineering.
+-  Comfortable working natively in **Linux CLI**, **SQL**, and Git to take ideas beyond notebooks into real systems.
+-  **AI-Assisted Engineering:** I use AI tools and agentic CLI workflows (including **`agy` CLI**, Gemini API, Ollama, and `llama.cpp`) as productivity multipliers to design architecture, write tests, document, and iterate faster.
+-  **Core Interests:** Quantitative Finance & Risk Analytics · Geospatial Data Science · Machine Learning & Deep Learning · Local AI & LLMs (RAG/Agents) · Applied Mathematics, Probability & Optimization.
+-  **Currently working on:** Geospatial & actuarial analysis (*Índice OXXO* research paper in LaTeX), local AI agent workflows, and actuarial modeling in R.
+-  **Goal:** Build a career in actuarial/quantitative risk analytics and applied AI.
+-  **Open to:** Research collaborations, internships, and open-source projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Featured Projects
+
+- ** Índice OXXO (Geospatial Research & Applied Statistics):** Spatial analysis of commercial density, 400m pedestrian coverage, and correlation with INEGI/DENUE economic data across 31 Mexican state capitals and 16 CDMX boroughs. Built with metric reprojection (`EPSG:6372`), algebraic dependency filtering in correlation matrices, Folium maps, automated daily `systemd` execution, and a LaTeX research paper.
+- ** Algorithmic Trading Bot (Quantitative Finance & Risk):** Automated trading system integrated with Interactive Brokers (`ib_insync` + IBC). Features `TimeSeriesSplit` + `GridSearchCV`, expanding Walk-Forward validation, portfolio metrics (CAGR, Sharpe Ratio, Max Drawdown, Profit Factor), ATR-based Trailing Stop, and an independent `RiskManager` kill-switch.
+- ** POS & Analytics Platform (End-to-End Business ML):** Full-stack SMB system (FastAPI, SQLAlchemy, SQL, Streamlit, PWA) powered by **quantile regression forecasting (P10/P50/P90)** for demand/inventory, **CUSUM** statistical process control for cash-register anomaly detection, and a hybrid WhatsApp expense parser using Gemini Flash.
+- ** JAM & ATLAS (Local AI, RAG & CI/CD):** Privacy-first offline assistants built with ChromaDB vector memory, local LLM inference (`llama.cpp` / Ollama), hardware detection, Cython compilation, and automated Windows builds via GitHub Actions.
+- ** F1 Autonomous Agent (DQN) & Hemibrain Connectome:** Deep Q-Learning agent with Experience Replay and raycasting (TensorFlow / Keras), alongside real neuroscience graph analysis using NetworkX and Plotly.
+
+---
+
+###  Tech Stack & Tools
 
 - **Languages & Databases:** Python, R, **SQL** (PostgreSQL / SQLite), Bash, LaTeX.
 - **Data Science, ML & Geospatial:** Pandas, NumPy, Scikit-learn, SciPy, GeoPandas, TensorFlow/Keras, Folium, Streamlit, Plotly, NetworkX.
@@ -68,12 +68,12 @@
 
 ---
 
-### 🌱 Currently Exploring & Learning
+###  Currently Exploring & Learning
 
-- 📊 **Actuarial Modeling & Insurance Analytics in R:** Mortality tables (INEGI), GLM frequency-severity models, Quarto, and Shiny.
-- ⏳ **Time Series & Probabilistic Forecasting:** Quantile modeling, risk intervals, and statistical process control.
-- 🎲 **Bayesian Statistics & Numerical Methods:** Computational methods applied to stochastic and differential models.
-- 🤖 **Local Agentic Architectures:** Optimizing inference and AI-assisted developer automation directly from the CLI.
+-  **Actuarial Modeling & Insurance Analytics in R:** Mortality tables (INEGI), GLM frequency-severity models, Quarto, and Shiny.
+-  **Time Series & Probabilistic Forecasting:** Quantile modeling, risk intervals, and statistical process control.
+-  **Bayesian Statistics & Numerical Methods:** Computational methods applied to stochastic and differential models.
+-  **Local Agentic Architectures:** Optimizing inference and AI-assisted developer automation directly from the CLI.
 
 
 
