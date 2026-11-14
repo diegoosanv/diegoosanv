@@ -88,10 +88,6 @@
 ---
 
 <div align="center">
-  <p>
-    📫 <strong>Reach me:</strong>
-    <a href="mailto:tu.correo@ejemplo.com">Email</a> ·
-    <a href="https://linkedin.com/in/tu-usuario">LinkedIn</a>
-  </p>
+
   <p><em>Thanks for visiting my profile.</em></p>
 </div>
