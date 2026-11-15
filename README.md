@@ -78,5 +78,6 @@
 
 
 <div align="center">
-  <p><em>Thanks for visiting my profile.</em></p>
+  <p><em>Thanks for visiting my profile. 
+  Contact: diegoville227@icloud.com</em></p>
 </div>
